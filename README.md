@@ -5,6 +5,13 @@ A backend service for browsing ~200,000 products with category filtering and eff
 Built using Node.js, Express, PostgreSQL and Prisma.
 
 ---
+## Live Demo
+https://product-catlog-vuyt.onrender.com
+
+## GitHub Repository
+https://github.com/AnkitaSarvale1704/product-catlog.git
+
+---
 
 ## Features
 
